@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gdalinfo:*)",
+      "Bash(python:*)",
+      "Bash(source:*)",
+      "Bash(touch:*)"
+    ],
+    "deny": []
+  }
+}
