@@ -14,3 +14,4 @@ data/
 output/daily_maps/
 
 ./claude
+__pycache__
