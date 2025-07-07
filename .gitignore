@@ -1,14 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
+# Gemini files
+GEMINI.md
+CLAUDI.md
+
+# Virtual environment
 venv/
-ENV/
-env.bak/
-venv.bak/
 
 # Data files
 data/
@@ -17,31 +12,5 @@ data/
 
 # Large output files
 output/daily_maps/
-output/maps_data/
 
-# Development files
-CLAUDE.md
-GEMINI.md
-description.txt
-position_mosaic copy.dat
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pytest
-.pytest_cache/
+./claude
